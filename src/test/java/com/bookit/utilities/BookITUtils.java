@@ -23,4 +23,20 @@ public class BookITUtils {
         return finalToken;
 
     }
+
+    public static String[] getMYInfo(String email, String password){
+        String[] myInfo = new String[];
+
+        for (int i = 0; i < 3; i++) {
+            if (i==0){
+                //get batch request
+                //myInfo[i]=jsonPath.getString
+            }
+            if(i==1){
+                //get team request
+            }
+            
+        }
+        
+    }
 }
