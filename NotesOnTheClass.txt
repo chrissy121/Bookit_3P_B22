@@ -1,0 +1,14 @@
+Three point Verification
+We are creating cucumber framework from scratch
+For Cucumber Framework
+pom.xml: Cucumber-jave, cucumber-junit
+Creating classes: CukesRunner(features, glue)
+
+Utilities: Driver, Confi.Reader
+in order for them to work we needed selenium-java and bonigarcia webdriver manager dependencies
+
+UI Part
+Connection: selenium, webdrivermanager
+- create configuration.properties
+Create our scenario and get the info from UI
+
