@@ -11,4 +11,13 @@ UI Part
 Connection: selenium, webdrivermanager
 - create configuration.properties
 Create our scenario and get the info from UI
+we added Hooks, it is for before and after methods(maximize, close, screenshot)
+
+
+API part
+test it manually, we looked at our swagger document; in order to do any API request
+we need bearer token, first request is always for token, then get user information
+
+automation: add
+
 
